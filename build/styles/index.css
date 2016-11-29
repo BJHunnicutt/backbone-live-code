@@ -9,3 +9,8 @@ li.task {
   padding: 10px;
   margin: 10px;
 }
+
+
+.strikeme {
+  text-decoration: line-through;
+}
